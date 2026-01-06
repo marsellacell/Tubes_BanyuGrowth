@@ -1,0 +1,28 @@
+<svg width="400" height="400" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="400" height="400" fill="#f3f4f6"/>
+  
+  <!-- Icon -->
+  <g transform="translate(100, 80)">
+    <!-- Box -->
+    <rect x="40" y="80" width="120" height="100" fill="#d1d5db" rx="4"/>
+    <rect x="40" y="80" width="120" height="20" fill="#9ca3af"/>
+    
+    <!-- Box lines -->
+    <line x1="100" y1="80" x2="100" y2="180" stroke="#9ca3af" stroke-width="2"/>
+    <line x1="40" y1="100" x2="160" y2="100" stroke="#9ca3af" stroke-width="2"/>
+    
+    <!-- Image icon in center -->
+    <circle cx="100" cy="130" r="15" fill="#6b7280"/>
+    <circle cx="95" cy="125" r="4" fill="#f3f4f6"/>
+    <path d="M 85 145 L 95 135 L 105 145 L 115 135" fill="none" stroke="#f3f4f6" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  
+  <!-- Text -->
+  <text x="200" y="270" font-family="Arial, sans-serif" font-size="18" fill="#6b7280" text-anchor="middle">
+    Produk UMKM
+  </text>
+  <text x="200" y="295" font-family="Arial, sans-serif" font-size="14" fill="#9ca3af" text-anchor="middle">
+    Foto belum tersedia
+  </text>
+</svg>
